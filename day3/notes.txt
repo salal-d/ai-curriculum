@@ -1,0 +1,3 @@
+This is my first saved note.
+Python can read and write files.
+This line was added later.
