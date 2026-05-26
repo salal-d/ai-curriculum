@@ -1,0 +1,13 @@
+date,client,industry,project_type,revenue,hours,satisfied
+2026-01-05,Acme Corp,Healthcare,AI Strategy,12000,40,yes
+2026-01-12,BlueSky Ltd,Finance,Chatbot,8500,32,yes
+2026-01-20,ClearPath,Legal,Document Processing,15000,55,no
+2026-02-03,Acme Corp,Healthcare,Training,5000,20,yes
+2026-02-14,Dynamo Inc,Retail,AI Strategy,9000,35,yes
+2026-02-28,BlueSky Ltd,Finance,RAG System,22000,80,yes
+2026-03-10,EastWest,HR,Chatbot,7500,28,no
+2026-03-22,ClearPath,Legal,AI Strategy,11000,42,yes
+2026-04-01,Dynamo Inc,Retail,Document Processing,6000,25,no
+2026-04-15,FreshCo,Food,Training,4500,18,yes
+2026-04-28,Acme Corp,Healthcare,RAG System,18000,65,yes
+2026-05-10,GreenTech,Energy,Chatbot,9500,36,yes
