@@ -31,6 +31,8 @@ def analyze(text, url):
 3. Key differentiator
 4. Potential weakness an AI consultant could exploit as an opportunity
 5. How to market myself using these tools 
+6. Threat level to a small AI consulting firm (Low / Medium / High) and why
+
 
 Website: {url}
 
