@@ -53,3 +53,9 @@ with open(outfile, "w") as f:
 
 print(f"Batch complete. {len(results)} files processed.")
 print(f"Saved to {outfile}")
+
+print("\n=== BATCH REPORT ===")
+for result in results:
+    print(f"\nFILE: {result['file']}")
+    print("-" * 40)
+    print(result['summary'])
